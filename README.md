@@ -10,8 +10,6 @@ Resource Pack Converter fixes that in one drop:
 • Works with every Java Edition version since 1.7
 • Dark & light themes, Windows / macOS / Linux (Java 8+)
 
-Download: [LINK]
-
 Built on the open-source ResourcePackConverter project.
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
