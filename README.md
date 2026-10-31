@@ -1,4 +1,4 @@
-Title: Update ANY Minecraft Resource Pack to 26.3 in One Drop | Resource Pack Converter
+Update ANY Minecraft Resource Pack to 26.3 in One Drop | Resource Pack Converter
 
 Minecraft 26.x changed how resource packs work: beds and signs became block models, entity textures were renamed, armor trim palettes moved, and the pack format is now 97.1. Older packs get flagged as incompatible and many custom textures silently fall back to vanilla.
 
